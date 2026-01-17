@@ -1,0 +1,65 @@
+{
+    "fileList_h": [
+        {
+            "name": "package_h_01.pack",
+            "files": [
+                "../RSUpdate/Sources/EULAWnd.h",
+                "../RSUpdate/Sources/FirewallUtil.h",
+                "../RSUpdate/Sources/GenerateUpdaterXML.h",
+                "../RSUpdate/Sources/HttpDownload.h",
+                "../RSUpdate/Sources/HWInfoPost.h",
+                "../RSUpdate/Sources/ITaskbarList3.h",
+                "../RSUpdate/Sources/main.h",
+                "../RSUpdate/Sources/r3dHttpFS.h",
+                "../RSUpdate/Sources/resource.h",
+                "../RSUpdate/Sources/SelfUpdateEXE.h"
+            ]
+        },
+        {
+            "name": "package_h_02.pack",
+            "files": [
+                "../RSUpdate/Sources/SteamHelper.h",
+                "../RSUpdate/Sources/targetver.h",
+                "../RSUpdate/Sources/TexImage2D.h",
+                "../RSUpdate/Sources/Updater.h",
+                "../RSUpdate/Sources/UPDATER_CONFIG.h",
+                "../RSUpdate/Sources/updProgress.h",
+                "../RSUpdate/Sources/Win32Input.h",
+                "../RSUpdate/Sources/WOBackendAPI.h",
+                "../RSUpdate/Sources/WOCheckSerialHelper.h",
+                "../RSUpdate/Sources/WOCreateAccHelper.h",
+                "../RSUpdate/Sources/WOLoginHelper.h"
+            ]
+        },
+        {
+            "name": "package_cpp_01.pack",
+            "files": [
+                "../RSUpdate/Sources/EULAWnd.cpp",
+                "../RSUpdate/Sources/FirewallUtil.cpp",
+                "../RSUpdate/Sources/GenerateUpdaterXML.cpp",
+                "../RSUpdate/Sources/HttpDownload.cpp",
+                "../RSUpdate/Sources/HWInfoPost.cpp",
+                "../RSUpdate/Sources/main.cpp",
+                "../RSUpdate/Sources/Main_CmdLine.cpp",
+                "../RSUpdate/Sources/r3dHttpFS.cpp",
+                "../RSUpdate/Sources/r3dPCH.cpp",
+                "../RSUpdate/Sources/SelfUpdateEXE.cpp"
+            ]
+        },
+        {
+            "name": "package_cpp_02.pack",
+            "files": [
+                "../RSUpdate/Sources/SteamHelper.cpp",
+                "../RSUpdate/Sources/TexImage2D.cpp",
+                "../RSUpdate/Sources/Updater.cpp",
+                "../RSUpdate/Sources/UPDATER_CONFIG.cpp",
+                "../RSUpdate/Sources/updProgress.cpp",
+                "../RSUpdate/Sources/Win32Input.cpp",
+                "../RSUpdate/Sources/WOBackendAPI.cpp",
+                "../RSUpdate/Sources/WOCheckSerialHelper.cpp",
+                "../RSUpdate/Sources/WOCreateAccHelper.cpp",
+                "../RSUpdate/Sources/WOLoginHelper.cpp"
+            ]
+        }
+    ]
+}
