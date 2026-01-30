@@ -1,0 +1,47 @@
+{
+    "isExport": true,
+    "packList": [
+        {
+            "name": "package_h_01.xml",
+            "files": [
+                "../MasterServer/Sources/GameSlotInfo.h",
+                "../MasterServer/Sources/MasterAsyncApiMgr.h",
+                "../MasterServer/Sources/MasterGameServer.h",
+                "../MasterServer/Sources/MasterServer.h",
+                "../MasterServer/Sources/MasterServerConfig.h",
+                "../MasterServer/Sources/MasterUserServer.h",
+                "../MasterServer/Sources/MasterUdpMonitor.h",
+                "../MasterServer/Sources/NetPacketsServerBrowser.h",
+                "../MasterServer/Sources/SrvCrashHandler.h",
+                "../MasterServer/Sources/VersionNo.h",
+                "../MasterServer/Sources/ServerWeapons/MasterServerWeaponArmory.h"
+            ]
+        },
+        {
+            "name": "package_cpp_01.xml",
+            "files": [
+                "../MasterServer/Sources/MasterAsyncApiMgr.cpp",
+                "../MasterServer/Sources/MasterGameServer.cpp",
+                "../MasterServer/Sources/MasterServer.cpp"
+            ]
+        },
+        {
+            "name": "package_cpp_02.xml",
+            "files": [
+                "../MasterServer/Sources/MasterServerConfig.cpp",
+                "../MasterServer/Sources/MasterUserServer.cpp",
+                "../MasterServer/Sources/MasterUdpMonitor.cpp",
+                "../MasterServer/Sources/SrvCrashHandler.cpp"
+            ]
+        },
+        {
+            "name": "package_cpp_03.xml",
+            "files": [
+                "../MasterServer/Sources/MasterServerMain.cpp",
+                "../MasterServer/Sources/VersionNo.cpp",
+                "../MasterServer/Sources/stdafx.cpp",
+                "../MasterServer/Sources/ServerWeapons/MasterServerWeaponArmory.cpp"
+            ]
+        }
+    ]
+}

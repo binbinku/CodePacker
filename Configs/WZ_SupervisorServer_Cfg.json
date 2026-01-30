@@ -1,0 +1,40 @@
+{
+    "isExport": true,
+    "packList": [
+        {
+            "name": "package_h_01.xml",
+            "files": [
+                "../SupervisorServer/Sources/GameWatcher.h",
+                "../SupervisorServer/Sources/LogUploader.h",
+                "../SupervisorServer/Sources/MMapGameInfo.h",
+                "../SupervisorServer/Sources/SupervisorConfig.h",
+                "../SupervisorServer/Sources/SupervisorGameServer.h",
+                "../SupervisorServer/Sources/SupervisorServer.h",
+                "../SupervisorServer/Sources/VersionNo.h"
+            ]
+        },
+        {
+            "name": "package_cpp_01.xml",
+            "files": [
+                "../SupervisorServer/Sources/GameWatcher.cpp",
+                "../SupervisorServer/Sources/SupervisorGameServer.cpp"
+            ]
+        },
+        {
+            "name": "package_cpp_02.xml",
+            "files": [
+                "../SupervisorServer/Sources/LogUploader.cpp",
+                "../SupervisorServer/Sources/stdafx.cpp",
+                "../SupervisorServer/Sources/SupervisorConfig.cpp"
+            ]
+        },
+        {
+            "name": "package_cpp_03.xml",
+            "files": [
+                "../SupervisorServer/Sources/SupervisorServer.cpp",
+                "../SupervisorServer/Sources/SupervisorServerMain.cpp",
+                "../SupervisorServer/Sources/VersionNo.cpp"
+            ]
+        }
+    ]
+}
