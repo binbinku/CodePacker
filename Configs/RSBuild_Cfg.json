@@ -1,0 +1,29 @@
+{
+    "isExport": true,
+    "packList": [
+        {
+            "name": "package_h_01.xml",
+            "files": [
+                "../RSBuild/Sources/BuilderConfig.h",
+                "../RSBuild/Sources/main.h",
+                "../RSBuild/Sources/r3dFSBuilder.h",
+                "../RSBuild/Sources/r3dMeshConvert.h"
+            ]
+        },
+        {
+            "name": "package_cpp_01.xml",
+            "files": [
+                "../RSBuild/Sources/BuilderConfig.cpp",
+                "../RSBuild/Sources/main.cpp"
+            ]
+        },
+        {
+            "name": "package_cpp_02.xml",
+            "files": [
+                "../RSBuild/Sources/r3dFSBuilder.cpp",
+                "../RSBuild/Sources/r3dMeshConvert.cpp",
+                "../RSBuild/Sources/r3dPCH.cpp"
+            ]
+        }
+    ]
+}

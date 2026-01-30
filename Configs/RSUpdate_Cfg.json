@@ -1,7 +1,8 @@
 {
-    "fileList_h": [
+    "isExport": true,
+    "packList": [
         {
-            "name": "package_h_01.pack",
+            "name": "package_h_01.xml",
             "files": [
                 "../RSUpdate/Sources/EULAWnd.h",
                 "../RSUpdate/Sources/FirewallUtil.h",
@@ -16,7 +17,7 @@
             ]
         },
         {
-            "name": "package_h_02.pack",
+            "name": "package_h_02.xml",
             "files": [
                 "../RSUpdate/Sources/SteamHelper.h",
                 "../RSUpdate/Sources/targetver.h",
@@ -32,7 +33,7 @@
             ]
         },
         {
-            "name": "package_cpp_01.pack",
+            "name": "package_cpp_01.xml",
             "files": [
                 "../RSUpdate/Sources/EULAWnd.cpp",
                 "../RSUpdate/Sources/FirewallUtil.cpp",
@@ -47,7 +48,7 @@
             ]
         },
         {
-            "name": "package_cpp_02.pack",
+            "name": "package_cpp_02.xml",
             "files": [
                 "../RSUpdate/Sources/SteamHelper.cpp",
                 "../RSUpdate/Sources/TexImage2D.cpp",
