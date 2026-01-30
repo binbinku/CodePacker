@@ -1,5 +1,9 @@
 # CodePacker
 
-V0.01
+> Des : Pack Code For ChatGPT
 
-Pack Code For ChatGPT
+
+Supported GLM
+
+1. ChatGPT.openai
+2. Qwen.ai
